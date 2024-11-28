@@ -1,0 +1,12 @@
+body{
+font-family:Arial;
+text-align:centre;
+justify-content:center;
+}
+container{
+display:flex;
+text-align:center;
+margin-bottom:10px;
+padding:2px;
+
+}
